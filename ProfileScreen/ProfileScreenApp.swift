@@ -2,7 +2,7 @@
 //  ProfileScreenApp.swift
 //  ProfileScreen
 //
-//  Created by Sergio Andres Rodriguez Castillo on 13/10/26.
+//  Created by Sergio Rodriguez on 13/10/26.
 //
 
 import SwiftUI
